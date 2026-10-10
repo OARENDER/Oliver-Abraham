@@ -1,0 +1,5 @@
+The canonical URL, Open Graph/Twitter metadata, JSON-LD, robots.txt and sitemap.xml are set to https://oliverabraham.co.uk/. The social preview image is /assets/og-image.jpg. Deploy the contents of this folder together to the website root.
+
+Included search files: llms.txt and llms-full.txt for AI-system context; robots.txt and sitemap.xml for crawlers; JSON-LD for semantic description. These improve clarity but do not guarantee indexing or ranking.
+
+The portrait is a generated fictional placeholder embedded in index.html. Replace its data URI and update its alt text and caption when you have a real portrait. Verify contact details before printing.
